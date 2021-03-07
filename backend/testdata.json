@@ -1,0 +1,21 @@
+{
+    "name": "best president",
+    "options": [
+        {
+            "name": "me",
+            "votes": 31
+        },
+        {
+            "name": "barack last name",
+            "votes": 12
+        },
+        {
+            "name": "trump bad",
+            "votes": 69
+        },
+        {
+            "name": "sleepy joe",
+            "votes": 70
+        }
+    ]
+}
